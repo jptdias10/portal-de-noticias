@@ -76,13 +76,12 @@ h6{
     color: #9d9d9d;
     margin-right: 25px;
     text-decoration: none;
-
-
 }
 
 #itens {
     display: inline-flex;
     justify-content: align-center;
+    align-items: center;
     list-style-type: none;
     flex-wrap: wrap;
 }
