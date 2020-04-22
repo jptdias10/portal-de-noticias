@@ -115,11 +115,16 @@ h6{
         max-width: 50%;
 
     }
-#carrocel img{
-    size: inherit;
-    max-height: 324px;
 
-}
+    #carrocel {
+        margin: 16px 0;
+        width: 100%;
+    }
+
+    #carrocel img{
+        size: inherit;
+        max-height: 324px;
+    }
 
     /* MENU2 menu após o card1 */
     #menu2 li:hover {
@@ -133,6 +138,7 @@ h6{
 /*MENU2 menu após o card1 fim */
 
 /*segunda fileira de imgs e video*/
+
     #card-lado{
         background-color: #0cae98;
     }
@@ -165,12 +171,6 @@ h6{
       font-size: x-small;
   }
 /*segunda fileira de imgs e video fim*/
-
-
-#espaço{
-    background-color: #fff;
-    height: 20px;
-}
 
 
 /* FOOTER */
