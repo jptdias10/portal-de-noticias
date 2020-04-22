@@ -1,7 +1,7 @@
 /* RESET*/
 html{
     height: 100%;
-    
+
 }
 
 body, ul, li,p{
@@ -53,7 +53,7 @@ h6{
 
 #header button {
     width:15%;
-    float: right; 
+    float: right;
     padding: 15px 10px;
     background-color: #0cae98;
     color: #fff;
@@ -76,8 +76,8 @@ h6{
     color: #9d9d9d;
     margin-right: 25px;
     text-decoration: none;
-   
-  
+
+
 }
 
 #itens {
@@ -92,7 +92,7 @@ h6{
     justify-content: center;
     align-items: center;
     width: 48px;
-    height: 48px; 
+    height: 48px;
 }
 
 .input-search {
@@ -114,14 +114,14 @@ h6{
 
     .section img{
         max-width: 50%;
-       
+
     }
 #carrocel img{
-    size: inherit; 
+    size: inherit;
     max-height: 324px;
 
 }
-  
+
     /* MENU2 menu após o card1 */
     #menu2 li:hover {
         text-decoration: none;
@@ -144,7 +144,8 @@ h6{
     }
 
     #card2{
-        height: 930px;
+        height: max-content;
+        margin-bottom: 8px;;
     }
 
     #card2 img{
@@ -174,10 +175,10 @@ h6{
 }
 
 #menufooter div nav a{
-   
+
     text-align: center;
     padding: 25px;
-    
+
 }
 
 #espaçofooter{
@@ -206,19 +207,19 @@ h6{
     /* SOCIAL ICONS*/
 
 .social-icons {
-    
+
     margin-top: 100px;
     margin-left: 80px
     }
-    
+
     .social-icons a {
         color:#000;
-         float: left; 
+         float: left;
          margin-left:10px;
         }
-    
+
         .btn-facebook:hover{color:#3B5998;}
-    
+
         .btn-twitter:hover{color:#54A4D6;}
-    
+
         .btn-google:hover{color:#D73D32;}
