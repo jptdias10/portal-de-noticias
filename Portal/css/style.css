@@ -27,14 +27,14 @@ h6{
     background-color: #0cae98;
 }
 
-#logo {
-    margin-bottom: 16px;
-    margin-top: 8px;
+#top-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
 }
 
-#logo img {
-    float: left;
-    font-size: 0;
+#top-header > img {
     max-height: 75px;
 }
 
